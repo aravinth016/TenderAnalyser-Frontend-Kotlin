@@ -65,4 +65,4 @@ An AI-powered, full-stack mobile application designed for procurement management
 
  📦 Download Compiled APK
  To test the live application directly on your Android phone without setting up Android Studio:
- 👉 Download TenderAnalyser v1.0.0 APK
+ 👉 Download TenderAnalyser v1.0.0 APK(https://github.com/aravinth016/TenderAnalyser-Frontend-Kotlin/releases/download/v1.0.0/app-debug.apk)**
