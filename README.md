@@ -49,20 +49,20 @@ An AI-powered, full-stack mobile application designed for procurement management
    ```bash
  git clone [https://github.com/aravinth016/TenderAnalyser-Frontend-Kotlin.git](https://github.com/aravinth016/TenderAnalyser-Frontend-Kotlin.git)
 
-2.Open in Android Studio:
+ 2.Open in Android Studio:
 
  Select File ➔ Open and navigate to the project directory.
 
-3.Configure Environment Variables:
+ 3.Configure Environment Variables:
 
  Open local.properties in your project root and specify your backend base URL:
 
-4.Properties
+ 4.Properties
  BASE_URL=[https://your-render-backend.onrender.com/](https://your-render-backend.onrender.com/)
  Build and Run:
 
  Sync Gradle dependencies and run the project on an emulator or physical Android device.
 
-📦 Download Compiled APK
-To test the live application directly on your Android phone without setting up Android Studio:
-👉 Download TenderAnalyser v1.0.0 APK
+ 📦 Download Compiled APK
+ To test the live application directly on your Android phone without setting up Android Studio:
+ 👉 Download TenderAnalyser v1.0.0 APK
